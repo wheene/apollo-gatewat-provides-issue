@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "@apollo/gateway": "=0.16",
-    "apollo-server": "=2.13.1"
+    "apollo-server": "=2.14.2"
   }
 }
